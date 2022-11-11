@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115105" started-at="2022-10-21T12:06:32 IST" finished-at="2022-10-21T12:08:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115105" started-at="2022-10-21T12:06:32 IST" finished-at="2022-10-21T12:08:27 IST">
+      <class name="Parallel.DiffCred">
+        <test-method status="PASS" signature="login()[pri:1, instance:Parallel.DiffCred@8646db9]" name="login" duration-ms="58574" started-at="2022-10-21T12:06:32 IST" finished-at="2022-10-21T12:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="jrLogin()[pri:2, instance:Parallel.DiffCred@8646db9]" name="jrLogin" duration-ms="56325" started-at="2022-10-21T12:07:31 IST" finished-at="2022-10-21T12:08:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jrLogin -->
+      </class> <!-- Parallel.DiffCred -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
